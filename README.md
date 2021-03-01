@@ -7,10 +7,10 @@ git clone https://github.com/hmetgundogdu/wordpress-docker-compose
 ## Launch server
 ``` shell
 cd wordpress-docker-compose
-// start 
-// Enter the start command then, check the website. http://localhost:8000
+# start 
+# Enter the start command then, check the website. http://localhost:8000
 docker-compose up
-// stop
+# stop
 docker-compose down
 ```
 
